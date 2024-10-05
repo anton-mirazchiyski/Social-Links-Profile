@@ -15,11 +15,16 @@ body {
     flex-direction: column;
     min-height: 100vh;
     align-items: center;
+    background-color: rgb(20, 20, 20);
 }
 
 #primary-container {
     margin-top: auto;
     text-align: center;
+    border-radius: 7%;
+    padding: 2em;
+    background-color: rgb(31, 31, 31);
+    color: #efefef;
 }
 
 footer {
@@ -29,4 +34,13 @@ footer {
 
 ul.profile-links-list {
     list-style-type: none;
+}
+
+.profile-links-list a {
+    text-decoration: none;
+    color: #efefef;
+}
+
+.location {
+    color: rgb(216, 255, 49);
 }
