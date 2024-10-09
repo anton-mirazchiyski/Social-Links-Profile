@@ -3,4 +3,5 @@ In this simple Frontend Mentor challenge the task was to create a web page like 
 and links to some social network profiles.
 
 ## Screenshot
-![Social-Links-Profile-Capture](https://github.com/user-attachments/assets/f04739b1-03fe-434e-b0d6-798c8a7a23e6)
+![Screenshot-Social-Links-Profile](https://github.com/user-attachments/assets/35920e58-3176-4b49-8401-251381443391)
+
